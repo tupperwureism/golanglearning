@@ -1,0 +1,7 @@
+HTTP/1.1 201 Created
+Content-Type: application/json; charset=utf-8
+Date: Wed, 24 Jun 2026 23:36:08 GMT
+Content-Length: 115
+Connection: close
+
+{"data":{"id":5,"nama":"Sinta","peran":"QA Assistant"},"message":"Pengguna berhasil ditambahkan","status":"sukses"}

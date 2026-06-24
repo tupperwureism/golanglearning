@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Wed, 24 Jun 2026 23:35:17 GMT
+Content-Length: 183
+Connection: close
+
+{"data":[{"id":1,"nama":"Budi Wibowo","peran":"Lead Backend Dev"},{"id":2,"nama":"Chloud","peran":"DevOps Engineer"},{"id":3,"nama":"Sinta","peran":"QA Assistant"}],"status":"sukses"}

@@ -1,0 +1,29 @@
+### 1. Get All User
+GET http://localhost:8080/pengguna
+
+###
+
+### 2. Create User
+POST http://localhost:8080/pengguna
+Content-Type: application/json
+
+{
+    "nama" : "Sinta",
+    "peran" : "QA Assistant"
+}
+
+###
+
+### 3. Update User
+PUT http://localhost:8080/pengguna/1
+Content-Type: application/json
+
+{
+    "nama" : "Budi Wibawa",
+    "Peran" : "Lead Backend Dev"
+}
+
+###
+
+### 4. Delete User 
+DELETE http://localhost:8080/pengguna/5

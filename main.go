@@ -154,4 +154,14 @@ func main() {
 
 	r.Run(":8080")
 }
+/*
+--- tambahan:
+	fitur khusus di bahasa Go yang disebut dengan if with a short statement (pernyataan singkat di dalam if):
+	// Sintaks ini rasanya mirip seperti ternary / kondisional singkat 
+		if data, ok := databaseSimulasi[id]; ok { //kalau ok maka if terjadi. sebaliknya  maka else yg terjadi
+			fmt.Println("Ketemu:", data.Nama)
+		} else {
+			fmt.Println("Data Kosong!")
+}
+*/
 /*========================================TIGA=======================================================*/
